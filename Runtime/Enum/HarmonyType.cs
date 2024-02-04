@@ -1,0 +1,30 @@
+namespace MusicTheory.Audio.Harmony
+{
+    public enum HarmonyType
+    {
+        Major,
+        Major_Pentatonic,
+        Minor_Harmonic,
+        Minor_Hungarian,
+        Minor_Melodic,
+        Minor_Aeolian,
+        Minor_Neapolitan,
+        Minor_Pentatonic,
+        Arabic,
+        Blues,
+        Dominished,
+        Dominant_Bebop,
+        Dorian,
+        Enigmatic,
+        Japanese_Insen,
+        Locrian,
+        Lydian,
+        Mixolydian,
+        Neapolitan,
+        Phrygian,
+        Major_Chord,
+        Major_7th_Chord,
+        Minor_Chord,
+        Minor_7th_Chord
+    }
+}

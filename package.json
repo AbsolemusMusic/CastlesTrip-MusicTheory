@@ -1,0 +1,21 @@
+{
+    "name": "com.castles.trip.music-theory",
+    "displayName": "Unity Music Theory",
+    "description": "Castles Trip - Music Theory",
+    "version": "0.1.0",
+    "type": "tool",
+    "unity": "2020.3",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:AbsolemusMusic/CastlesTrip-MusicTheory.git"
+    },
+    "author": "Castles Trip <castles.trip@gmail.com> (https://github.com/AbsolemusMusic)",
+    "keywords": [
+        "music",
+        "music theory",
+        "notes",
+        "tones",
+        "midi"
+    ]
+}
